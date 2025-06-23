@@ -10,7 +10,7 @@ Based on your `main.py` script, here's an engaging and professional **project de
 
 ---
 
-## 📝 Interactive README.md
+## 📝 README.md
 
 ````markdown
 # 📄 PDF Text Extractor GUI
